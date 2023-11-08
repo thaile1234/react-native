@@ -1,0 +1,31 @@
+const IMAGES = {
+  iconBack: require('../assets/iconBack.png'),
+  bg_images: require('../assets/bg_images.jpg'),
+  icHomeUnFocused: require('../assets/icHomeUnFocused.png'),
+  icHomeFocused: require('../assets/icHomeFocused.png'),
+  icUser: require('../assets/icUser.png'),
+  icUserRed: require('../assets/icUserRed.png'),
+  icMessages: require('../assets/icMessages.png'),
+  icMessagesRed: require('../assets/icMessagesRed.png'),
+  icMyWork: require('../assets/icMyWork.png'),
+  icMyWorkRed: require('../assets/icMyWorkRed.png'),
+  icSearch: require('../assets/search.png'),
+  icShoppingCartRed:require('../assets/icShoppingCartRed.png'),
+  icShoppingCart:require('../assets/icShoppingCart.png'),
+  imgCanhGheRauMuong:require('../assets/canh-ghe-rau-muong.jpg'),
+  imgBunMangVit: require('../assets/bun-mang-vit.jpg'), 
+  imgPhoXao: require('../assets/pho-xao.jpg'),
+  imgCanhNgaoChua:require('../assets/canh-ngao-chua.jpg'),
+  imgCaKeoLaGiang:require('../assets/ca-keo-la-giang.jpg'),
+  imgNuocEpOi:require('../assets/nuoc-ep-oi.jpg'),
+  imgNuocEpCaChua:require('../assets/nuoc-ep-ca-chua.jpg'),
+  imgSaLad:require('../assets/salad-ca-ngu.jpg'),
+  imgBanhTrangTron:require('../assets/banh-trang-tron.jpg'),
+  imgChaoCaHoi:require('../assets/chao-ca-hoi.jpg'),
+  imgSua:require('../assets/Sua.jpg'),
+  imgChaBo:require('../assets/cha-bo.jpg'),
+  imgChaLua:require('../assets/cha-lua.jpg'),
+
+
+};
+export {IMAGES};

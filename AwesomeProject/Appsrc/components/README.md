@@ -1,0 +1,1 @@
+Thường chứa các components dùng chung cho toàn app
